@@ -1,4 +1,7 @@
 # HackSmith Past Challenge Coin Winners
+
+Use this as a reference to see what a Challenge Coin winning project looks like! WIP.
+
 HackSmith v1.0 Challenge Coin Winners
 - [QR Safety Scanner](https://github.com/xPrinny/QrSafetyScanner)
 - [Prowler](https://github.com/tlkh/prowler)
