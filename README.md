@@ -1,4 +1,4 @@
 # HackSmith-v1.0
 HackSmith v1.0 Challenge Coin Winners
-- QR Safety Scanner[https://github.com/xPrinny/QrSafetyScanner]
-- Prowler[https://github.com/tlkh/prowler]
+- QR Safety Scanner[(https://github.com/xPrinny/QrSafetyScanner)]
+- Prowler[(https://github.com/tlkh/prowler)]
